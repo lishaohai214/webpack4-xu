@@ -1,7 +1,16 @@
 ## 快速开始
+```
+    # start 
+        $ npm install 
+    # 启动
+        $ npm run dev
+    # 生产
+        $ npm run build 
 
 ```
+
 ## webpack4 搭建环境及配置
+
 [搭建环境及配置](./doc/1-搭建环境及配置.md) 
 
 ## webpack4 加载 css 及配置 package.json
@@ -15,4 +24,4 @@
 
 ## webpack 中使用 babel
 [webpack4-polyfill和transform和preset](./doc/5-webpack4-polyfill和transform和preset)
-```
+

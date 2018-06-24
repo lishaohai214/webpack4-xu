@@ -74,7 +74,7 @@ module.exports = {
 ```s
     $ npm run dev // webpack-dev-server --config=config/webpack.dev.js --mode=development 
 ```
-![pic_local](...)
+![pic_local](https://github.com/lshaohai/webpack4-xu/blob/master/doc/images/local8080.png)
 修改一下样式
 
 ```css
@@ -113,7 +113,7 @@ h1 {
 }
 
 ```
-![pic_error_css](...)
+![pic_error_css](https://raw.githubusercontent.com/lshaohai/webpack4-xu/master/doc/images/pirc_error_css.png)
 
 平时用脚手架的时候，报错，不仅仅是控制台报错，浏览器也会报错。
 需要对webpack.dev.js 下面的 devServer进行配置
@@ -130,7 +130,7 @@ h1 {
     $ webpack-dev-server --config=config/webpack.dev.js --mode=development 
 ```
 效果如下
-![error_css_overlay](....)
+![error_css_overlay](https://github.com/lshaohai/webpack4-xu/blob/master/doc/images/error_css_overlay.png)
 
 这样子就可以很明了的 错误在哪里。
 现在改回来，把“ ; ” 加上

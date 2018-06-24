@@ -87,7 +87,7 @@ let a = async () => {
         },
     // ...
 ``` 
-![babel-polyfill](./images/babel-polyfill.png)
+![babel-polyfill](https://raw.githubusercontent.com/lshaohai/webpack4-xu/master/doc/images/babel-polyfill.png)
 ```js
 const path = require("path");
 module.exports = {
@@ -101,7 +101,7 @@ module.exports = {
     $ npm run dev 
 ``` 
 刚刚那个是所有的 es8的语法都会进行编译，而这个仅仅是 编译了 promise 对应的部分
-![core-js-fn-promise](.images/core-js-fn-promise.png)
+![core-js-fn-promise](https://github.com/lshaohai/webpack4-xu/blob/master/doc/images/core-js-fn-promise.png)
 
 
 
@@ -130,7 +130,7 @@ module.exports = {
     $ npm run dev
 ```
 
-![presets](./images/presets.png)
+![presets](https://github.com/lshaohai/webpack4-xu/blob/master/doc/images/presets.png)
 
 `.babelrc`
 ```
@@ -230,7 +230,7 @@ main.js
 ```s
     $ npm run build 
 ```
-![babel-runtime](babel-runtime.png)
+![babel-runtime](https://raw.githubusercontent.com/lshaohai/webpack4-xu/master/doc/images/babel-runtime.png)
 
 
 > 以上讲解了 polyfill 、 presets 、transform 这些东西都有优势和劣势
