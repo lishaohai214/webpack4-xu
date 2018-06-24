@@ -23,5 +23,5 @@
 [babel转换](./doc/4-babel转换.md)
 
 #### webpack 中使用 babel
-[webpack4-polyfill和transform和preset](./doc/5-webpack4-polyfill和transform和preset)
+[webpack4-polyfill和transform和preset](./doc/5-webpack4-polyfill和transform和preset.md)
 
