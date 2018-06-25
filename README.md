@@ -25,3 +25,6 @@
 #### webpack 中使用 babel
 [webpack4-polyfill和transform和preset](./doc/5-webpack4-polyfill和transform和preset.md)
 
+
+#### webpack4 搭建自己的脚手架（一）
+[webpack4 搭建自己的脚手架（一）](./doc/6-webpack4搭建自己的脚手架1.md)
